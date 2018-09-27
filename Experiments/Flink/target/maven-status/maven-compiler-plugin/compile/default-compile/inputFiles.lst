@@ -1,0 +1,14 @@
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\flink\BatchJob.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\moa\core\SizeOf.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\PeriodicWaterMarkEstimator.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\flink\events\SimpleEvent.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\test\AdwinTest2.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\PessimisticWatermarkEstimator.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\flink\StreamingJob.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\moa\stream\ADWIN.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\DistancebasedAdaptiveWatermarkEstimator.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\flink\source\Source.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\test\ADWINTest.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\WatermarkEstimator.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\AdaptiveWatermarkEstimator.java
+c:\Work\Big Data Lab\ADWM\ADWM-Flink\ee.dsg.adaptivewatermark.flink\src\main\java\ee\ut\cs\dsg\adaptivewatermark\OptimisticWatermarkEstimator.java
