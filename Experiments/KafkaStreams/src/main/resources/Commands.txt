@@ -1,0 +1,15 @@
+#In the first command line window
+#Start Zookeeper
+cd c:\Work\kafka_2.11-2.0.0\bin\windows
+zookeeper-server-start.bat ../../config/zookeeper.properties
+
+#In the second command line window
+# Start Kafka
+cd c:\Work\kafka_2.11-2.0.0\bin\windows
+kafka-server-start.bat ../../config/server.properties
+
+#In the third command line window
+#create the input/output topics
+cd c:\Work\kafka_2.11-2.0.0\bin\windows
+kafka-topics --create --topic measurement-topic --partitions 3 --replication-factor 1 --zookeeper localhost:2181
+kafka-topics --create --topic windowed-topic --partitions 3 --replication-factor 1 --zookeeper localhost:2181
