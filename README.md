@@ -10,10 +10,12 @@ In this repository there are two folders:
 2- Experiments, in which there is a subfolder for the source code and experimental results for each system of the systems under the test. 
 In this table below the engines and their tested versions: <br />
 
-|SPE   |	Version   |<br />
-|Beam  |	2.6.0     |<br />
-|Flink |	 1.6.0    |<br />
-|Spark |	 2.3.1    |<br />
-|Storm | 1.2.0      |<br />
+
+| SPE  | Version |
+| ------------- | ------------- |
+| Beam  | 2.6.0  |
+| Flink  | 1.6.0  |
+|Spark |	 2.3.1    |
+|Storm | 1.2.0      |
 |Kafka | 2.0.0      |
 
