@@ -5,9 +5,9 @@ Due to the advance of the stream processing systems and the diversity of their s
 What is inside?<br /> 
 This repository is associated with the paper “WiTeREvR: A Modern Look on Stream Processing Engines Windowing Semantics”.
 WiTeREvR is a proposed model to evaluate windowing semantics of the modern stream processing engines. 
-In this repository there are two folders:
-1- Simulator, in which one can find the java source for the WiTeREvR model simulator.
-2- Experiments, in which there is a subfolder for the source code and experimental results for each system of the systems under the test. 
+In this repository there are two folders: <br />
+1- Simulator, in which one can find the java source for the WiTeREvR model simulator. <br />
+2- Experiments, in which there is a subfolder for the source code and experimental results for each system of the systems under the test.<br /> 
 In this table below the engines and their tested versions: <br />
 
 
